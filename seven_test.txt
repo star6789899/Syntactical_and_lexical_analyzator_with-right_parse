@@ -1,0 +1,13 @@
+procedure name ; begin
+	var 
+		a , caef : integer ;	
+
+	c := a + 1 + ( c ) ;
+	case ( a + 1 ) of
+		3 : z := 1 ; 
+		case 100 of
+			   100 : a := 1 + a ;
+			   1 : b := 2 ;
+		end ;
+	end ;
+end
